@@ -41,17 +41,17 @@
   <h2>💻 Stack Technique (AI Infrastructure)</h2>
 
   #### Langages & Frameworks IA
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,django,rust" alt="AI Languages & Frameworks" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,django,nodejs" alt="AI Languages & Frameworks" />
 
   #### MLOps & Cloud
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,terraform,jenkins" alt="MLOps & Cloud" />
 
   #### Outils de Data & LLM
   <p>
-    <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+    <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
     <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-    <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+    <img src="https://img.shields.io/badge/LangGraph-121212?style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
   </p>
 
@@ -66,11 +66,11 @@
   <table>
     <tr>
       <td align="center">
-        <a href="https://lien-projet1.com">
+        <a href="https://getpromptcraft.org">
           <img src="https://via.placeholder.com/250x150?text=LLM+Fine-tuning" width="250px" alt="Projet 1"/><br/>
-          <b>Fine‑tuning de LLM</b>
+          <b>Prompting-Tools for prompt AI</b>
         </a>
-        <br/>Pipeline d’entraînement distribué sur GPU.
+        <br/>  AI-powered prompt engineering platform for generating, optimizing.
       </td>
       <td align="center">
         <a href="https://lien-projet2.com">
