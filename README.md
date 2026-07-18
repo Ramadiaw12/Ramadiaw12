@@ -73,41 +73,42 @@
         <br/>  AI-powered prompt engineering platform for generating, optimizing.
       </td>
       <td align="center">
-        <a href="https://lien-projet2.com">
-          <img src="https://via.placeholder.com/250x150?text=RAG+System" width="250px" alt="Projet 2"/><br/>
-          <b>RAG avec LangChain</b>
+        <a href="https://github.com/Ramadiaw12/CDCeps">
+          <img src="cdceps.png" width="250px" alt="CDCEPS"/><br/>
+          <b> AI-Powered Requirements Engineering</b>
         </a>
-        <br/>Système de question‑réponse sur documents.
+        <br/>
+        AI-powered software requirements generation.
       </td>
       <td align="center">
-        <a href="https://lien-projet3.com">
-          <img src="https://via.placeholder.com/250x150?text=AI+Tutor" width="250px" alt="Projet 3"/><br/>
-          <b>Assistant pédagogique IA</b>
+        <a href="https://github.com/Ramadiaw12/pharmyx">
+          <img src="pharma.png" width="250px" alt="Projet 3"/><br/>
+          <b>Pharmyx – Smart Pharmacy Locator</b>
         </a>
-        <br/>Chatbot éducatif avec mémoire conversationnelle.
+        <br/>Find nearby on-duty pharmacies instantly.
       </td>
     </tr>
     <tr>
       <td align="center">
-        <a href="https://lien-projet4.com">
-          <img src="https://via.placeholder.com/250x150?text=MLOps+CI%2FCD" width="250px" alt="Projet 4"/><br/>
-          <b>Pipeline MLOps</b>
+        <a href="https://github.com/Ramadiaw12/Project_Zabbix_AWS">
+          <img src="zabbix.png" width="250px" alt="Projet 4"/><br/>
+          <b>CloudOps Monitoring</b>
         </a>
-        <br/>Déploiement continu de modèles sur Kubernetes.
+        <br/>Monitoring and observability with Zabbix.
       </td>
       <td align="center">
-        <a href="https://lien-projet5.com">
-          <img src="https://via.placeholder.com/250x150?text=AI+Monitoring" width="250px" alt="Projet 5"/><br/>
-          <b>Observabilité IA</b>
+        <a href="https://github.com/Ramadiaw12/BI_project">
+          <img src="BI.png" width="250px" alt="Projet 5"/><br/>
+          <b>Banking Business Intelligence</b>
         </a>
-        <br/>Tableaux de bord Prometheus + Grafana pour modèles.
+        <br/>Credit risk analytics and customer segmentation.
       </td>
       <td align="center">
-        <a href="https://lien-projet6.com">
+        <a href="https://github.com/Ramadiaw12/rag_project">
           <img src="https://via.placeholder.com/250x150?text=Data+Lakehouse" width="250px" alt="Projet 6"/><br/>
-          <b>Data Lakehouse</b>
+          <b>AI Document Assistant</b>
         </a>
-        <br/>Architecture Delta Lake pour données d’entraînement.
+        <br/>Chat with PDFs using Retrieval-Augmented Generation.
       </td>
     </tr>
   </table>
