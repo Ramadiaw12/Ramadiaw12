@@ -105,7 +105,7 @@
       </td>
       <td align="center">
         <a href="https://github.com/Ramadiaw12/rag_project">
-          <img src="https://via.placeholder.com/250x150?text=Data+Lakehouse" width="250px" alt="Projet 6"/><br/>
+          <img src="ragcap.png" width="250px" alt="Projet 6"/><br/>
           <b>AI Document Assistant</b>
         </a>
         <br/>Chat with PDFs using Retrieval-Augmented Generation.
