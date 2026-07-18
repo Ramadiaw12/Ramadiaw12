@@ -67,7 +67,7 @@
     <tr>
       <td align="center">
         <a href="https://getpromptcraft.org">
-          <img src="https://via.placeholder.com/250x150?text=LLM+Fine-tuning" width="250px" alt="Projet 1"/><br/>
+          <img src="promptcraft.png" width="250px" alt="Projet 1"/><br/>
           <b>Prompting-Tools for prompt AI</b>
         </a>
         <br/>  AI-powered prompt engineering platform for generating, optimizing.
