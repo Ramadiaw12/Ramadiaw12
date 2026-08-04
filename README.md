@@ -40,7 +40,7 @@
 <div align="center">
   <h2>💻 Stack Technique (AI Infrastructure)</h2>
 
-  #### Langages & Frameworks IA
+  #### Langages & Frameworks
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,django,nodejs" alt="AI Languages & Frameworks" />
 
   #### MLOps & Cloud
