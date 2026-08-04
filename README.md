@@ -12,7 +12,7 @@
   <h1>👋 Bonjour, je suis Ramatoulaye DIAWANE</h1>
   <h3>AI Infrastructure Engineer</h3>
 
- [![Email](https://img.shields.io/badge/Email-rdiawane2001%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:superrama86@gmail.com)
+ [![Email](https://img.shields.io/badge/Email-superrama86%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:superrama86@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/Ramadiaw12?logo=github&style=flat-square&color=0891b2)](https://github.com/Ramadiaw12)
  [![Portfolio](https://img.shields.io/badge/Portfolio-superrama.netlify.app-blue?style=flat-square&logo=vercel&logoColor=white)](https://superrama.netlify.app)
 ![Profile Views](https://komarev.com/ghpvc/?username=Ramadiaw12&style=flat-square&color=0891b2)
