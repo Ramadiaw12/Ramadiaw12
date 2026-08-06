@@ -3,7 +3,7 @@
   <img src="banner.gif" alt="Banner" width="100%">
 </p>
 <!--
-**Ramadiaw12/Ramadiaw12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 <!-- Header -->
 
 
