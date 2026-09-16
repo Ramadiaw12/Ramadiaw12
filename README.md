@@ -152,5 +152,5 @@
 
 <!-- Footer -->
 <div align="center">
-  <p>🤝 Ouvert aux collaborations en MLOps et infrastructure IA</p>
+  <p>🤝 Ouvert aux collaborations en AI and infrastructure </p>
 </div>
